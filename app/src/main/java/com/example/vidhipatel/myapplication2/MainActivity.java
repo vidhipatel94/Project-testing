@@ -15,7 +15,7 @@ public class MainActivity extends ActionBarActivity {
         setContentView(R.layout.activity_main);
 	//msg changed
         Toast.makeText(getApplicationContext(),"hello",Toast.LENGTH_LONG).show();
-    }
+   }
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
