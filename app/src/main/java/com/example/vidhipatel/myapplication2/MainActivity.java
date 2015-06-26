@@ -14,7 +14,7 @@ public class MainActivity extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 	//msg changed
-        Toast.makeText(getApplicationContext(),"hello",Toast.LENGTH_LONG).show();
+        Toast.makeText(getApplicationContext(),"hello world",Toast.LENGTH_LONG).show();
    }
 
     @Override
